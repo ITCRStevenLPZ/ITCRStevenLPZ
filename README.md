@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Ronald Esquivel López and this is a my portfolio 👋
+- I am from Alajuela, Costa Rica.
+- I'm currently learning some of Operatives Systems, AI, Networking and Front-End Web Development 🔭.
+- I'm working right now in a charity web, game and QR app development project with Rescate Wildlife Rescue Center (ZooAve). Check their page and collaborate 😄! https://www.rescatewildlife.org/
+- I'm about to finish my career on Computing Engineering at Tecnológico de Costa Rica.
+- I'm also a Network Technician, graduated from Universidad Técnica Nacional.
+- 📫 How to reach me:
+My email: esquivellopezronald@hotmail.com
+My Linkedln profile: https://www.linkedin.com/in/ronald-steven-esquivel-lopez/
+
 
 <!--
 **ITCRStevenLPZ/ITCRStevenLPZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
