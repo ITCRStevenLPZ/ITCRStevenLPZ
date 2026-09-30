@@ -1,25 +1,11 @@
-### Hi there, my name is Ronald Esquivel López and this is a my portfolio 👋
-- I am from Alajuela, Costa Rica.
-- I'm currently learning some of Operatives Systems, AI, Networking and Front-End Web Development 🔭.
-- I'm working right now in a charity web, game and QR app development project with Rescate Wildlife Rescue Center (ZooAve). Check their page and collaborate 😄! https://www.rescatewildlife.org/
-- I'm about to finish my career on Computing Engineering at Tecnológico de Costa Rica.
-- I'm also a Network Technician, graduated from Universidad Técnica Nacional.
-- 📫 How to reach me:
-My email: esquivellopezronald@hotmail.com
-My Linkedln profile: https://www.linkedin.com/in/ronald-steven-esquivel-lopez/
+I am a DevSecOps Architect, SRE Lead, and Software Engineer specializing in the intersection of secure cloud infrastructure, operational reliability, and production agentic AI systems. My core engineering discipline is straightforward: security and compliance must be architected in from day one, not audited in at the end.
 
+In my enterprise work at Accenture, I serve as Tech Lead and Architect for an internal agentic AI platform that turns complex DevOps and DevSecOps documentation into automated, guided learning graphs. I lead cross-functional development and operations teams, define the SLO/SLI reliability frameworks that govern platform performance, and orchestrate agent graphs using LangChain, LangGraph, AWS Bedrock, GCP Vertex AI, MongoDB, and Redis on automated CI/CD foundations. My background includes building and automating mission-critical systems for enterprise clients including Intel, CVS Health, and Disney—spanning .NET cryptographic implementations, Adobe Experience Manager migrations, and declarative IaC via Terraform.
 
-<!--
-**ITCRStevenLPZ/ITCRStevenLPZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a venture co-founder, I bring enterprise rigor to modern AI products:
 
-Here are some ideas to get you started:
+Softical.tech: Deploying privacy-by-design LLM multi-agent systems and Model Context Protocol (MCP) tooling across Google Cloud (Vertex AI, Cloud Run) adhering to NIST and GDPR security guidelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Promatchanalytics.com: Architecting real-time sports event capture pipelines and automated agentic visualization engines delivering live period-by-period analytics for national media broadcasts.
+
+I hold an M.Sc. in Cybersecurity and a B.Sc. in Computer Engineering from Tecnológico de Costa Rica. Across all domains—whether cloud platforms, CI/CD pipelines, or autonomous agent frameworks—I prioritize clean architecture, automated testing gates, and strict operational resilience.
